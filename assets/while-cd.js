@@ -17,7 +17,7 @@ do{
         para.textContent =[i];
     }
 
-    i--
+    i--;
 
 }while(i > -1);
  
